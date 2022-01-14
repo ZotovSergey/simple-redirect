@@ -1,13 +1,12 @@
+# CI use example (Github Actions)
+
+Example of use Github Actions on simple app
+
 [![Go Report Card](https://goreportcard.com/badge/github.com/rumyantseva/simple-redirect)](https://goreportcard.com/report/github.com/rumyantseva/simple-redirect)
 
-# simple-redirect
+## simple-redirect
 
 This simple app allows to set redirect rule for the website.
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rumyantseva/simple-redirect&env[TO]=https://google.com&env[TYPE]=301)
-
-For example, you may deploy it to Heroku with the necessary rules, 
-set a custom domain and enjoy the redirect from your domain.
 
 Possible env variables:
 
